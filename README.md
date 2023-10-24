@@ -18,7 +18,7 @@ Comecei discente em Ciência da Computação em 2019 na Faculdade Católica da P
   
 ![nicollasguedes Github stats](https://github-readme-stats.vercel.app/api?username=nicollasguedes\&show__icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![nicollasguedes github streak](https://github-readme-streak-stats.herokuapp.com/?user=nicollasguedes&theme=radical&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nicollasguedes&theme=radical)](https://git.io/streak-stats)
 
  <div>
 
